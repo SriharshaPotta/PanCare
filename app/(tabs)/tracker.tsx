@@ -4,7 +4,7 @@ import React from 'react'
 const tracker = () => {
   return (
     <View>
-      <Text>tracker</Text>
+      <Text>tracker.</Text>
     </View>
   )
 }
